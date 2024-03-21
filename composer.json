@@ -1,0 +1,15 @@
+{
+    "name": "wellington/gzaip",
+    "description": "ai using gzip",
+    "type": "project",
+    "require": {
+        "php-ds/php-ds": "^1.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nyyakko",
+            "email": "nyakonyns@gmail.com"
+        }
+    ]
+}
